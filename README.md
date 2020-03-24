@@ -1,4 +1,4 @@
-# Project 5: Leveraging Social Media to Identify Major Historic Flood Events
+# Leveraging Social Media and NOAA Weather Data to Identify Major Historic Flood Events
 
 ## Problem Statement
 Floods are one of the most frequent natural disasters, which threaten human and animal life as well as cause significant damage to cities' infrastructure. In order to effectively equip cities to anticipate floods, a deep analysis on vulnerabilties of cities is needed. That said, the impact of major floods on particular cities is difficult to determine due to there being minimal tools accessible to the public that can effectively identify major flood events on a global scale. This study aims to create an open-source tool to identify historical flood events based on data extracted from Twitter and international weather stations.
